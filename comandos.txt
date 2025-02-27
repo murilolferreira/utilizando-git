@@ -2,6 +2,11 @@
 git config --global user.name "NOME AQUI"
 git config --global user.email "EMAIL AQUI"
 
+-> navegando no cmd
+cd nome-da-pasta // entra em uma pasta
+cd .. // volta uma pasta
+cd /    // vai para o C:
+
 -> inicializa um repositorio git(utilizado apenas uma vez)
 git init
 
