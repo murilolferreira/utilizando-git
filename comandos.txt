@@ -1,3 +1,7 @@
+-> configura o pc com nome e e-mail do responsavel pelo codigo
+git config --global user.name "NOME AQUI"
+git config --global user.email "EMAIL AQUI"
+
 -> inicializa um repositorio git(utilizado apenas uma vez)
 git init
 
